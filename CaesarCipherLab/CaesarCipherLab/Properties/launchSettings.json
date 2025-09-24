@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CaesarCipherLab": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Alexandra\\Desktop\\pORJECT\\CaesarCipherLab\\CaesarCipherLab\\training.txt\" \"C:\\Users\\Alexandra\\Desktop\\pORJECT\\CaesarCipherLab\\CaesarCipherLab\\scrambled.txt\" \"C:\\Users\\Alexandra\\Desktop\\pORJECT\\CaesarCipherLab\\CaesarCipherLab\\output.txt\"\r\n\r\n"
+    }
+  }
+}

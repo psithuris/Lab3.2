@@ -1,0 +1,14 @@
+C:\Users\Alexandra\Desktop\pORJECT\CaesarCipherLab\CaesarCipherLab\bin\Debug\net8.0\CaesarCipherLab.exe
+C:\Users\Alexandra\Desktop\pORJECT\CaesarCipherLab\CaesarCipherLab\bin\Debug\net8.0\CaesarCipherLab.deps.json
+C:\Users\Alexandra\Desktop\pORJECT\CaesarCipherLab\CaesarCipherLab\bin\Debug\net8.0\CaesarCipherLab.runtimeconfig.json
+C:\Users\Alexandra\Desktop\pORJECT\CaesarCipherLab\CaesarCipherLab\bin\Debug\net8.0\CaesarCipherLab.dll
+C:\Users\Alexandra\Desktop\pORJECT\CaesarCipherLab\CaesarCipherLab\bin\Debug\net8.0\CaesarCipherLab.pdb
+C:\Users\Alexandra\Desktop\pORJECT\CaesarCipherLab\CaesarCipherLab\obj\Debug\net8.0\CaesarCipherLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandra\Desktop\pORJECT\CaesarCipherLab\CaesarCipherLab\obj\Debug\net8.0\CaesarCipherLab.AssemblyInfoInputs.cache
+C:\Users\Alexandra\Desktop\pORJECT\CaesarCipherLab\CaesarCipherLab\obj\Debug\net8.0\CaesarCipherLab.AssemblyInfo.cs
+C:\Users\Alexandra\Desktop\pORJECT\CaesarCipherLab\CaesarCipherLab\obj\Debug\net8.0\CaesarCipherLab.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\pORJECT\CaesarCipherLab\CaesarCipherLab\obj\Debug\net8.0\CaesarCipherLab.dll
+C:\Users\Alexandra\Desktop\pORJECT\CaesarCipherLab\CaesarCipherLab\obj\Debug\net8.0\refint\CaesarCipherLab.dll
+C:\Users\Alexandra\Desktop\pORJECT\CaesarCipherLab\CaesarCipherLab\obj\Debug\net8.0\CaesarCipherLab.pdb
+C:\Users\Alexandra\Desktop\pORJECT\CaesarCipherLab\CaesarCipherLab\obj\Debug\net8.0\CaesarCipherLab.genruntimeconfig.cache
+C:\Users\Alexandra\Desktop\pORJECT\CaesarCipherLab\CaesarCipherLab\obj\Debug\net8.0\ref\CaesarCipherLab.dll
